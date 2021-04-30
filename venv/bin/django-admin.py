@@ -1,4 +1,4 @@
-#!/home/tfox/Desktop/Django-Weather-App/venv/bin/python3
+#!/home/tfox/Documents/GitHub/Django-Weather-App/venv/bin/python
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 

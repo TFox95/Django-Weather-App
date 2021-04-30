@@ -1,4 +1,4 @@
-#!/home/tfox/Desktop/Django-Weather-App/venv/bin/python3
+#!/home/tfox/Documents/GitHub/Django-Weather-App/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
